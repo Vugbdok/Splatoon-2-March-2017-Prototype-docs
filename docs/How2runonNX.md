@@ -1,1 +1,13 @@
-TEST
+# How to run the Splatoon 2 Mar2017 Proto on the Nintendo Switch 1
+## Mini title
+Text
+> NOTE: Text
+---
+- Dot Text
+- [Link](docs/How2runonNX.md)
+  
+logo
+<img src="/assets/dummy.png" alt="dummy" width="256" />
+
+screenshot
+<img src="/assets/screenshots/dummy.png" alt="dummy" height="365" />
