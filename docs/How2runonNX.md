@@ -8,7 +8,8 @@
 - The repacked NSP file for the Splatoon 2 March (Prototype)
 - The Atmosphère [patches](/assets/Patches.zip) for the Splatoon 2 March (Prototype)
 - Some type of NSP installer like [Goldleaf](https://github.com/XorTroll/Goldleaf/releases)
-  > [!NOTE]
+
+  > [!note]
   > I will only show Goldleaf for the guide.
 # Installing the NSP
 
