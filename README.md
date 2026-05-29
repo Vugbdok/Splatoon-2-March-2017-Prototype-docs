@@ -25,5 +25,5 @@ Screenshots were taken by Vugbdok.
 - How to run the game on the Nintendo Switch. ([Go](docs/How2runonNX.md))
     - What you will need ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#what-you-will-need))
     - Installing the NSP ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#installing-the-nsp))
-- Commands and button combos. ([Go](docs/Control.md))
+- Debug controls ([Go](docs/Control.md))
 - Sources ([Go](docs/Sources.md))
