@@ -18,7 +18,7 @@ Screenshots were taken by Vugbdok.
 # Table of Contents
 - Quick intro ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs#quick-intro))
     - Game Screenshots ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs#game-screenshots))
-- How to run the game on the Nintendo Switch. ([Go to](docs/How2runonNX.md))
+- How to run the game on the Nintendo Switch. ([Go](docs/How2runonNX.md))
     - What you will need ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#what-you-will-need))
     - Installing the NSP ([Go](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#installing-the-nsp))
 - Commands and button combos. ([Go](docs/How2runonNX.md))
