@@ -55,6 +55,8 @@ Now close it, return to the Switch HOME Menu, and launch the Splatoon 2 (March P
 ENJOY!
 
 <img src="/assets/screenshots/How2/S2pintro.jpg" alt="dummy" height="365" />
+
 ---
+
 This guide was made by Vugbdok.
-The patch was made by ...
+The NSP patch was made by ...
