@@ -14,7 +14,7 @@
 
 I will show you how to install the Splatoon 2 March (Prototype) NSP using Goldleaf.
 > [!CAUTION]
-> Modifying these system files can result in a permanent brick if done incorrectly. I suggest you back up your system files before you install the game.
+> Modifying the system files can result in a **permanent brick** if done incorrectly. I suggest you **back up your system files** before you install the game.
 
 Open a game and select a user. Hold the **R** trigger when selecting.
 
