@@ -15,7 +15,7 @@ A full prototype of Splatoon 2 was shadow dropped on Twitter (X.com) on May 9, 2
 <img src="/assets/screenshots/OctoTALKING!.jpg" alt="The Octo is talking in the Story mode." height="365" />
 
 # Table of Contents
-- Quick intro ([Go to](docs/How2runonNX.md))
-    - Game Screenshots ([Go to](docs/How2runonNX.md))
+- Quick intro ([Go to](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs#quick-intro))
+    - Game Screenshots ([Go to](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs#game-screenshots))
 - How to run the game on the Nintendo Switch. ([Go to](docs/How2runonNX.md))
 - Commands and button combos. ([Go to](docs/How2runonNX.md))
