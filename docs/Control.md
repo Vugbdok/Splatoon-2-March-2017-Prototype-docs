@@ -20,8 +20,11 @@ Some scenes let you press A to start them but other scenes don't let you so when
 # In game
 These are all of the commands I found in game meaning you're not in any of the Dev menus.
 
+## Debug Moving
+To activte Debug Moving (fly hacks) press **-**
+
 ## Debug Muteki
-Text
+
 
 
 
