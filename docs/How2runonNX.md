@@ -14,44 +14,47 @@ I will show you how to install the Splatoon 2 March (Prototype) NSP using Goldle
 
 Open a game and select a user. Hold the **R** trigger when selecting.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Useracc.png" alt="dummy" height="365" />
 
 From the hbmenu, open **Goldleaf**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glhbmenu.png" alt="dummy" height="365" />
 
 In Goldleaf, go to **Explore content**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Gl.png" alt="dummy" height="365" />
 
 Then go to **SD card**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glsdhover.png" alt="dummy" height="365" />
 
 Find and open the Splatoon 2 March (Prototype) NSP on your SD card.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glnsphover.png" alt="dummy" height="365" />
 
 Select **Install**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glinstallnsp.png" alt="dummy" height="365" />
 
 You **MUST** install it to your SysNAND or emuMMC. Select **Console memory**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glinstallnsp2.png" alt="dummy" height="365" />
 
 When done, press **+** to go back to the hbmenu, and then open **USB File Transfer**.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Usbfthbmenu.png" alt="dummy" height="365" />
 
 When you see this screen, connect the Switch to your PC or Mac and copy the patches folder to the root of your SD card.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Usbft.png" alt="dummy" height="365" />
 
 Now close it, return to the Switch HOME Menu, and launch the Splatoon 2 (March Prototype) game.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/S2phome.png" alt="dummy" height="365" />
 
 ENJOY!
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/S2pintro.png" alt="dummy" height="365" />
+---
+This guide was made by Vugbdok.
+The patch was made by ...
