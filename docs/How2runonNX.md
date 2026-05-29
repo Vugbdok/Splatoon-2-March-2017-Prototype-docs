@@ -59,4 +59,5 @@ ENJOY!
 ---
 
 This guide was made by Vugbdok.
+
 The NSP patch was made by ...
