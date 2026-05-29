@@ -21,8 +21,14 @@ screenshot
 > [!note]
 > test
 
+> [!tip]
+> test
+
 > [!important]
 > test
 
 > [!warning]
+> test
+
+> [!CAUTION]
 > test
