@@ -11,3 +11,7 @@ logo
 
 screenshot
 <img src="/assets/screenshots/dummy.png" alt="dummy" height="365" />
+
+| S1 | S2 |
+| --- | --- |
+| Test | Test |
