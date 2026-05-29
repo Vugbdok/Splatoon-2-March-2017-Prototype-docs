@@ -8,10 +8,13 @@
 - The repacked NSP file for the Splatoon 2 March (Prototype)
 - The Atmosphère [patches](/assets/Patches.zip) for the Splatoon 2 March (Prototype)
 - Some type of NSP installer like [Goldleaf](https://github.com/XorTroll/Goldleaf/releases)
-  > NOTE: I will only show Goldleaf for the guide.
+  > [!NOTE]
+  > I will only show Goldleaf for the guide.
 # Installing the NSP
 
 I will show you how to install the Splatoon 2 March (Prototype) NSP using Goldleaf.
+> [!CAUTION]
+> Modifying these system files can result in a permanent brick if done incorrectly. I suggest you back up your system files before you install the game.
 
 Open a game and select a user. Hold the **R** trigger when selecting.
 
@@ -59,5 +62,5 @@ ENJOY!
 
 ---
 
-This guide was made by Vugbdok.
-The NSP patch was made by ...
+> This guide was made by Vugbdok.
+> The NSP patch was made by ...
