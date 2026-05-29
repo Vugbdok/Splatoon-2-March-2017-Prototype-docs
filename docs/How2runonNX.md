@@ -8,46 +8,47 @@ I **WILL NOT** provide the repacked NSP. You **MUST** find it your self.
 - The Atmosphère [patches](/assets/Patches.zip) for the Splatoon 2 March (Prototype)
 - Some type of NSP installer like [Goldleaf](https://github.com/XorTroll/Goldleaf/releases)
   > NOTE: I will only show Goldleaf for the guide.
-# Insalling the NSP
-I will show you how to install the Splatoon 2 March (Prototype) NSP on Goldleaf.
+# Installing the NSP
 
-Open a game and select a user. Hold the **R** trigger when selecting
+I will show you how to install the Splatoon 2 March (Prototype) NSP using Goldleaf.
 
-<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
-
-From the hbmenu open the "Goldleaf"
+Open a game and select a user. Hold the **R** trigger when selecting.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-In Goldleaf go to **Explore content**
+From the hbmenu, open **Goldleaf**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-Then go to **SD card**
+In Goldleaf, go to **Explore content**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-Find and open the Splatoon 2 March (Prototype) NSP in your SD card
+Then go to **SD card**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-Here hit **Install**
+Find and open the Splatoon 2 March (Prototype) NSP on your SD card.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-You **MUST** install it to you SysNAND or emuMMC. So hit **Console memory**
+Select **Install**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-When done hit **+** to go back to the hbmenu and then open up "USB File Transfer"
+You **MUST** install it to your SysNAND or emuMMC. Select **Console memory**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-When you see this screen connect the switch to your PC or Mac and copy the patches folders to the root of the SD card
+When done, press **+** to go back to the hbmenu, and then open **USB File Transfer**.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
-Now eject it and on the Switch open the HOME Menu and go to the Splatoon 2 (March Prototype) game
+When you see this screen, connect the Switch to your PC or Mac and copy the patches folder to the root of your SD card.
+
+<img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
+
+Now close it, return to the Switch HOME Menu, and launch the Splatoon 2 (March Prototype) game.
 
 <img src="/assets/screenshots/How2/dummy.png" alt="dummy" height="365" />
 
