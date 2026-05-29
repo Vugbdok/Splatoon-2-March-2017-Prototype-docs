@@ -42,7 +42,7 @@ Select **Install**.
 
 You **MUST** install it to your SysNAND or emuMMC. Select **Console memory**.
 
-<img src="/assets/screenshots/How2/Glinstallnsp2.jpg" alt="dummy" height="365" />
+<img src="/assets/screenshots/How2/Glinstallnand.jpg" alt="dummy" height="365" />
 
 When done, press <img src="/assets/Bin/BIN_+.png" alt="Button +" width="18" valign="middle" /> to go back to the hbmenu, and then open **USB File Transfer**.
 
