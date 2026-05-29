@@ -1,0 +1,1 @@
+# here are most of the debug controls 
