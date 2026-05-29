@@ -18,5 +18,11 @@ screenshot
 | --- | --- |
 | Test | Test |
 
+> [!note]
+> test
+
+> [!important]
+> test
+
 > [!warning]
 > test
