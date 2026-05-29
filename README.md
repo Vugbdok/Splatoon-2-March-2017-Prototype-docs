@@ -13,7 +13,7 @@ For more docs go to [The Cutting Room Floor](https://tcrf.net/Proto:Splatoon_2/M
 A full prototype of Splatoon 2 was shadow dropped on Twitter (X.com) on May 9, 2026 by a user of the site, but the build itself was discovered a day prior on May 8, 2026. It was built on March 28, 2017, 11:51:39, nearly two weeks after the Testfire Demo and over four months before the final game. [S1](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/Sources.md#s1)
 
 ## Game Screenshots
-<img src="/assets/screenshots/S2M17B_HOMEMenu.jpg" alt="The Splatoon 2 March (Prototype) info screen on the Switch HOME Menu." height="365" />
+<img src="/assets/screenshots/S2M17B_HOMEMenu.jpg" alt="The Splatoon 2 (March Prototype) info screen on the Switch HOME Menu." height="365" />
 <img src="/assets/screenshots/HelloShadow:3.jpg" alt="DbgMenu opened in the tutorial showing an easter egg." height="365" />
 <img src="/assets/screenshots/TwinTower.jpg" alt="The Dev Menu opened showing a map selected." height="365" />
 <img src="/assets/screenshots/OctoTALKING!.jpg" alt="The Octo is talking in the Story mode." height="365" />
