@@ -18,5 +18,5 @@ screenshot
 | --- | --- |
 | Test | Test |
 
-> [!test]
+> [!warning]
 > test
