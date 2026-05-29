@@ -22,3 +22,4 @@ Screenshots were taken by Vugbdok.
     - What you will need ([Go to](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#what-you-will-need))
     - Installing the NSP ([Go to](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs/blob/main/docs/How2runonNX.md#installing-the-nsp))
 - Commands and button combos. ([Go to](docs/How2runonNX.md))
+- Sources ([Go](docs/Sources.md))
