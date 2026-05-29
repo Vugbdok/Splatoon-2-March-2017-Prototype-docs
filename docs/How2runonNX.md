@@ -44,7 +44,7 @@ When done, press **+** to go back to the hbmenu, and then open **USB File Transf
 
 <img src="/assets/screenshots/How2/Usbfthbmenu.jpg" alt="dummy" height="365" />
 
-When you see this screen, connect the Switch to your PC or Mac and copy the patches (atmosphere, and switch) to the root of your SD card.
+When you see this screen, connect the Switch to your PC or Mac and copy the patches (atmosphere, and switch) to the root of your SD card. Make sure you merge the folders and not overwrite them.
 
 <img src="/assets/screenshots/How2/Usbft.jpg" alt="dummy" height="365" />
 
