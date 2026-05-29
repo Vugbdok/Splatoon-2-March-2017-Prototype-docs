@@ -1,5 +1,6 @@
 # How to run the Splatoon 2 March (Prototype) on the Nintendo Switch
-I **WILL NOT** provide the repacked NSP. You **MUST** find it your self.
+> [!important]
+> I **WILL NOT** provide the repacked NSP. You **MUST** find it your self.
 
 ## What you will need
 - A [modded](https://switch.hacks.guide/) Nintendo Switch on Horizon os 21.2.0 (or lower) and Atmosphère v1.10.2+
