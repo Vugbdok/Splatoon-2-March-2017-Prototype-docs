@@ -17,12 +17,12 @@ Text
 <img src="/assets/Bin/BIN_DPadUP.png" alt="Dpad up" width="18" valign="middle" />
 <img src="/assets/Bin/BIN_DPadLEFT.png" alt="Dpad left" width="18" valign="middle" />
 <img src="/assets/Bin/BIN_DPadRIGHT.png" alt="Dpad right" width="18" valign="middle" />
-<img src="/assets/Bin/BIN_L.png" alt="Button L" width="18" valign="middle" />
-<img src="/assets/Bin/BIN_R.png" alt="Button R" width="18" valign="middle" />
-<img src="/assets/Bin/BIN_ZL.png" alt="Button ZL" width="18" valign="middle" />
-<img src="/assets/Bin/BIN_ZR.png" alt="Button ZR" width="18" valign="middle" />
-<img src="/assets/Bin/STICK_L.png" alt="Left stick" width="18" valign="middle" />
-<img src="/assets/Bin/STICK_R.png" alt="Right stick" width="18" valign="middle" />
+<img src="/assets/Bin/BIN_L.png" alt="Button L" width="25" valign="middle" />
+<img src="/assets/Bin/BIN_R.png" alt="Button R" width="25" valign="middle" />
+<img src="/assets/Bin/BIN_ZL.png" alt="Button ZL" width="25" valign="middle" />
+<img src="/assets/Bin/BIN_ZR.png" alt="Button ZR" width="25" valign="middle" />
+<img src="/assets/Bin/STICK_L.png" alt="Left stick" width="20" valign="middle" />
+<img src="/assets/Bin/STICK_R.png" alt="Right stick" width="20" valign="middle" />
 
 
 logo
