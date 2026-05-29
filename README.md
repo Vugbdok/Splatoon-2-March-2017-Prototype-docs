@@ -1,7 +1,7 @@
 # Splatoon 2 March 2017 Prototype documentation
 This my documentation of the Splatoon 2 March 2017 Prototype bulid on how it works and plays.
 
-> NOTE: I will not provide any download links or ways to get the ROM/NSP online. This is ONLY for preservation purposes.
+> NOTE: I will not provide any download links or ways to get the ROM/NSP online. This is ONLY for preservation purposes. This is a working progress project, expect spelling mistakes.
 
 For more docs go to [The Cutting Room Floor](https://tcrf.net/Proto:Splatoon_2/March_28,_2017) they have alot of info more then me.
 
