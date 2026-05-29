@@ -13,6 +13,7 @@ A full prototype of Splatoon 2 was shadow dropped on Twitter (X.com) on May 9, 2
 <img src="/assets/screenshots/HelloShadow:3.jpg" alt="DbgMenu opened in the tutorial showing an easter egg." height="365" />
 <img src="/assets/screenshots/TwinTower.jpg" alt="The Dev Menu opened showing a map selected." height="365" />
 <img src="/assets/screenshots/OctoTALKING!.jpg" alt="The Octo is talking in the Story mode." height="365" />
+Screenshots were taken by Vugbdok.
 
 # Table of Contents
 - Quick intro ([Go to](https://github.com/Vugbdok/Splatoon-2-March-2017-Prototype-docs#quick-intro))
