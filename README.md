@@ -2,7 +2,7 @@
 This my documentation of the Splatoon 2 March 2017 Prototype bulid on how it works and plays.
 
 > [!important]
-> I will not provide any download links or ways to get the ROM/NSP online. This is ONLY for preservation purposes.
+> I will not provide any download links or ways to get the ROM/NSP online. **This is for preservation purposes only.**
 
 > [!note]
 > This is a working progress project, expect spelling mistakes and errors.
