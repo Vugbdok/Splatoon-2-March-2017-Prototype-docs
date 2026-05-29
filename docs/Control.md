@@ -2,6 +2,9 @@
 
 Since this is a prototype game created four months before the game actually came out there are going to be debug command and controls that the devs used for creating Splatoon 2.
 
+# DevMenus
+These are all of the commands I found in the Dev menus of the game.
+
 ## Scene select menu
 
 > [!important]
@@ -14,10 +17,15 @@ In the plaza or anywhere else around the game, other than the boot screen you ca
 ### Start a scene
 Some scenes let you press A to start them but other scenes don't let you so when you encounter this issue, select the scene that you want and hit Plus to start that scene. You can also hit X to select a mode for that scene.
 
+# In game
+These are all of the commands I found in game meaning you're not in any of the Dev menus.
 
-# Title
-## Mini title
+## Debug Muteki
 Text
+
+
+
+
 > NOTE: Text
 ---
 - Dot Text
