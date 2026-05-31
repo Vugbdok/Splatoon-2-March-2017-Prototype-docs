@@ -16,7 +16,7 @@ I will show you how to install the Splatoon 2 (March Prototype) NSP using Goldle
 > [!CAUTION]
 > Modifying the system files can result in a **permanent brick** if done incorrectly. I suggest you **back up your system files** before you install the game.
 
-Open a game and select a user. Hold <img src="/assets/Bin/BIN_R.png" alt="Button R" width="25" valign="middle" /> when selecting.
+Open a game and select a user. Hold <img src="/assets/Bin/BIN_R.png" alt="Button R" width="25"  /> when selecting.
 
 <img src="/assets/screenshots/How2/Useracc.jpg" alt="dummy" height="365" />
 
@@ -44,7 +44,7 @@ You **MUST** install it to your SysNAND or emuMMC. Select **Console memory**.
 
 <img src="/assets/screenshots/How2/Glinstallnand.jpg" alt="dummy" height="365" />
 
-When done, press <img src="/assets/Bin/BIN_+.png" alt="Button +" width="18" valign="middle" /> to go back to the hbmenu, and then open **USB File Transfer**.
+When done, press <img src="/assets/Bin/BIN_+.png" alt="Button +" width="18"  /> to go back to the hbmenu, and then open **USB File Transfer**.
 
 <img src="/assets/screenshots/How2/Usbfthbmenu.jpg" alt="dummy" height="365" />
 
