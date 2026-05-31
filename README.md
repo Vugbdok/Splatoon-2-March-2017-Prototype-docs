@@ -6,6 +6,8 @@ This my documentation of the Splatoon 2 March 2017 Prototype bulid on how it wor
 
 > [!note]
 > This is a working progress project, expect spelling mistakes and errors.
+>
+> Website is buggy.
 
 For more docs go to [The Cutting Room Floor](https://tcrf.net/Proto:Splatoon_2/March_28,_2017) they have alot of info more then me.
 
