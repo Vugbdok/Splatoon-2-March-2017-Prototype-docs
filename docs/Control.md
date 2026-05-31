@@ -36,12 +36,20 @@ While in Debug Moving, you can pass through walls and by holding <img src="/asse
 
 <img src="/assets/screenshots/Control/DBMsquid.jpg" alt="The Debug moving being shown." height="365" />
 
-## Switching Teams
-During a battle, you can switch teams by holding <img src="/assets/Bin/BIN_-.png" alt="Button -" width="18"  /> and tilting the <img src="/assets/Bin/STICK_R.png" alt="Right stick" width="20"  /> stick left or right.
+## Switching Players
+During a battle, you can switch players by holding <img src="/assets/Bin/BIN_-.png" alt="Button -" width="18"  /> and tilting the <img src="/assets/Bin/STICK_R.png" alt="Right stick" width="20"  /> stick left or right.
 
 <img src="/assets/screenshots/Control/STp1.jpg" alt="Team switching shown on team 1." height="365" />
 
 <img src="/assets/screenshots/Control/STp2.jpg" alt="Team switching shown on team 2." height="365" />
+
+## Switching Abiliities
+You can switch abiliities by holding <img src="/assets/Bin/BIN_-.png" alt="Button -" width="18"  /> and tilting the <img src="/assets/Bin/STICK_R.png" alt="Right stick" width="20"  /> stick down.
+
+## Match debug
+To use Match debug hold down <img src="/assets/Bin/BIN_-.png" alt="Button -" width="18"  /> and tilt the <img src="/assets/Bin/STICK_R.png" alt="Right stick" width="20"  /> stick up.
+
+---
 
 > [!NOTE]
 > If you have Ultrahand installed, continuously holding the <img src="/assets/Bin/BIN_-.png" alt="Button -" width="18"  /> button will disable its API notifications.
